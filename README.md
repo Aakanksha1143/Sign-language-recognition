@@ -10,5 +10,7 @@ Output of Project:
 (Represented by my team member)
 ![image](https://github.com/Aakanksha1143/Sign-language-recognition/assets/133745541/4583c605-2a09-47e6-9ac8-c0031f216b51)
 
+The other details such as the Literature survey, system requirements specification, proposed system design, implementation and results, conclusion and future scope and references of the project are mentioned in the above provided documentation.
+
 
 
