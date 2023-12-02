@@ -7,5 +7,8 @@ One key benefit of this technology is its potential to enhance accessibility. De
 Sign language conversion to text and speech signifies a significant stride towards breaking down communication barriers and promoting equal opportunities for deaf individuals. As advancements in artificial intelligence and computer vision continue to evolve, the accuracy and accessibility of this technology are likely to improve, fostering a more inclusive and interconnected world for everyone.
 
 Output of Project:
+(Represented by my team member)
+![image](https://github.com/Aakanksha1143/Sign-language-recognition/assets/133745541/4583c605-2a09-47e6-9ac8-c0031f216b51)
+
 
 
